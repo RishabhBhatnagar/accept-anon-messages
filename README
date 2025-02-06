@@ -1,0 +1,2 @@
+A basic python application that listens to GET request made on /echo endpoint with q param and echos the input.
+Deployment is simple with ngrok
